@@ -26,5 +26,6 @@ It has option to color tag files or folders, open as root anything <br>
 - Generate thumbnails for images and videos, pdfs, change icon of empty folder
 - Add share via button in context for files
 - Hide icon size slide (open via button by hover)
+- Make icons fixed in size, clip large icon texts that show only on hover over icon
 </pre>
 <img width="1663" height="884" alt="image" src="https://github.com/user-attachments/assets/b44bff10-34e8-4ce7-86cd-4ed537b38b6e" />
