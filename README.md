@@ -1,4 +1,4 @@
-#  Elve File Manager - NOT YET FULLY WORKING
+# <img width="82" height="82" alt="2ac38d88-1086-4c72-880c-7d39619bdcc1" src="https://github.com/user-attachments/assets/bdcff5ae-9876-4f06-ae5a-4d6828f689a8" /> Elve File Manager - NOT YET FULLY WORKING
 This is just vibe coded file manager app that i made for my Linux DE <br>
 It has option to view compressed files without opening other file compression apps, <br>
 And extract in same folder or specified folder. <br>
