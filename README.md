@@ -28,5 +28,6 @@ Gnome Nautilus lacks so much, that this already seems better, even if it's not f
 - Add share via button in context for files
 - Hide icon size slide (open via button by hover)
 - Make icons fixed in size, clip large icon texts that show only on hover over icon
+- Address bar oversized when breadcrumps can't fit because of long file path, has to be trimmed
 </pre>
 <img width="1663" height="884" alt="image" src="https://github.com/user-attachments/assets/b44bff10-34e8-4ce7-86cd-4ed537b38b6e" />
