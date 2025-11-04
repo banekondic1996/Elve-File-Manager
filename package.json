@@ -1,0 +1,16 @@
+{
+    "name": "file-manager",
+    "main": "index.html",
+    "window": {
+        "width": 1200,
+        "height": 800,
+        "min_width": 800,
+        "min_height": 600
+    },
+    "scripts": {
+        "start-nw": "nw ."
+    },
+    "dependencies": {
+        "nw": "^0.105.0"
+    }
+}
