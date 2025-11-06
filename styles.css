@@ -14,7 +14,7 @@ body {
 
 .container {
     display: flex;
-    height: calc(100vh - 64px);
+    height: calc(100vh - 23px);
 }
 
 .sidebar {
