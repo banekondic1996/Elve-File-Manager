@@ -27,5 +27,6 @@ Gnome Nautilus lacks so much, that this already seems better, even if it's not f
 - Icon sizing style to be fixed
 - Create buttons for places without text
 - Multi select delete/copy
+- Opening linked directories and folders
 </pre>
 <img width="1663" height="884" alt="image" src="https://github.com/user-attachments/assets/b44bff10-34e8-4ce7-86cd-4ed537b38b6e" />
