@@ -9,9 +9,8 @@ Gnome Nautilus lacks so much, that this already seems better, even if it's not f
 **Missing / to be fixed:**
 <pre>
 - Opening large archives
-- Selecting multiple files visually
-- Visual movement of files improvements
-- Context menus for sidebar locations
+- Selecting multiple files visually while holding CTRL
+- Missing add to places
 - More file properties (icon change, more info)
 - "Open with" not working
 - Improve search, firstly search just current folder, then deep search
@@ -24,5 +23,8 @@ Gnome Nautilus lacks so much, that this already seems better, even if it's not f
 - Add undo/redo for text editor and fix close button
 - Generate thumbnails for images and videos, pdfs, change icon of empty folder
 - Add share via button in context for files
+- Drag and drop 
+- Icon sizing style to be fixed
+- Create buttons for places without text
 </pre>
 <img width="1663" height="884" alt="image" src="https://github.com/user-attachments/assets/b44bff10-34e8-4ce7-86cd-4ed537b38b6e" />
