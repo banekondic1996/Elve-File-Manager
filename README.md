@@ -30,4 +30,6 @@ Gnome Nautilus lacks so much, that this already seems better, even if it's not f
 - Opening linked directories and folders
 - Thumbnail caching!
 </pre>
-<img width="1663" height="884" alt="image" src="https://github.com/user-attachments/assets/b44bff10-34e8-4ce7-86cd-4ed537b38b6e" />
+<img width="1326" height="913" alt="image" src="https://github.com/user-attachments/assets/7f9879c0-872b-43c1-8258-e5ae7fb269fa" />
+
+
