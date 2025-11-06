@@ -12,8 +12,7 @@ Gnome Nautilus lacks so much, that this already seems better, even if it's not f
 - Selecting multiple files visually while holding CTRL
 - Missing add to places
 - More file properties (icon change, more info)
-- "Open with" not working
-- Improve search, firstly search just current folder, then deep search
+
 - Maybe switch to Rust for more performanse or create custom node module
 - Add split view
 - Add better details view
